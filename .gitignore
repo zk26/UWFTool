@@ -1,0 +1,28 @@
+# Build output
+dist/
+*.exe
+*.dll
+*.cer
+*.zip
+
+# Logs
+dist/logs/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+*.tmp
+*.bak
